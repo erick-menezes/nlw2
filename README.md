@@ -1,1 +1,1 @@
-"Projeto em andamento sendo realizado durante o evento Next Level Week #2." 
+Projeto em andamento sendo realizado durante o evento Next Level Week #2.
